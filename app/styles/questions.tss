@@ -1,0 +1,14 @@
+
+".container" : {
+  
+}
+
+"#winQuest": {
+	backgroundColor: 'white'
+}
+
+"Button": {
+	borderColor: 'black',
+	borderRadius: '2px',
+	borderWidth: '2px'
+}
