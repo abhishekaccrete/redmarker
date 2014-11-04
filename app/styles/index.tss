@@ -1,56 +1,6 @@
-"Label": {
-	width: Ti.UI.SIZE,
-	height: Ti.UI.SIZE,
-	color: "black"
-}
 
-"#parentView": {
-	left: 0,
-	top: 0,
-	width: Titanium.UI.FILL,
-	height: Titanium.UI.FILL,
-	borderColor: 'blue',
-	borderRadius: '2px',
-	borderWidth: '2px',
+"Window": {
 	backgroundColor: 'white'
 }
 
-"#quizView": {
-	left: '10%',
-	top: '10%',
-	width: '35%',
-	height: '35%',
-	backgroundColor: 'white',
-	borderRadius: '5px',
-	borderColor: 'black'
-}
-
-"#otherView1": {
-	left: '50%',
-	top: '10%',
-	width: '35%',
-	height: '35%',
-	backgroundColor: 'white',
-	borderRadius: '5px',
-	borderColor: 'black'
-}
-
-"#otherView2": {
-	left: '10%',
-	top: '50%',
-	width: '35%',
-	height: '35%',
-	backgroundColor: 'white',
-	borderRadius: '5px',
-	borderColor: 'black'
-}
-
-"#otherView3": {
-	left: '50%',
-	top: '50%',
-	width: '35%',
-	height: '35%',
-	backgroundColor: 'white',
-	borderRadius: '5px',
-	borderColor: 'black'
-}
+"#mainWin": {}

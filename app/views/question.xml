@@ -1,0 +1,9 @@
+<Alloy>
+	<View id="viewQuestMain" class="container">
+		<View id="viewQuest">
+			<Label id="lblQuestion"></Label>
+		</View>
+		<TableView id="tblOptions" onClick = "validateAnswer">
+		</TableView>
+	</View>
+</Alloy>

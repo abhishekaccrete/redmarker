@@ -1,36 +1,6 @@
 <Alloy>
-	<NavigationWindow id="navWin" platform="ios">
-		<Window id="mainWin" class="container" title="Main Window">
-			<View id="parentView">
-				<View id="quizView" onClick = "openQuiz">
-					<Label>Play Quiz</Label>
-				</View>
-				<View id="otherView1">
-					<Label>Feature Disabled</Label>
-				</View>
-				<View id="otherView2">
-					<Label>Feature Disabled</Label>
-				</View>
-				<View id="otherView3">
-					<Label>Feature Disabled</Label>
-				</View>
-			</View>
-		</Window>
+	<NavigationWindow platform="ios">
+		<Window title="Main Screen" id="mainWin"></Window>
 	</NavigationWindow>
-	<Window id="navWin" title = "Main Window" platform="android">
-			<View id="parentView">
-				<View id="quizView" onClick = "openQuiz">
-					<Label>Play Quiz</Label>
-				</View>
-				<View id="otherView1">
-					<Label>Feature Disabled</Label>
-				</View>
-				<View id="otherView2">
-					<Label>Feature Disabled</Label>
-				</View>
-				<View id="otherView3">
-					<Label>Feature Disabled</Label>
-				</View>
-			</View>
-	</Window>
+	<Window platform="android" id="mainWin"></Window>
 </Alloy>

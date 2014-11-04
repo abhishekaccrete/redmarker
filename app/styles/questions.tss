@@ -1,7 +1,4 @@
-
-".container" : {
-  
-}
+".container": {}
 
 "#winQuest": {
 	backgroundColor: 'white'
@@ -11,4 +8,13 @@
 	borderColor: 'black',
 	borderRadius: '2px',
 	borderWidth: '2px'
+}
+
+"#quizScroll": {
+	left: 0,
+	top: 0,
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	showPagingControl: true,
+	scrollingEnabled: false
 }

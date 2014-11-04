@@ -1,0 +1,25 @@
+"#rowView": {
+	left: 0,
+	top: 0,
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.SIZE,
+	layout: 'horizontal'
+}
+"View": {
+	borderColor: 'black',
+	borderRadius: '20px',
+	borderWidth: '2px'
+}
+"#imgOption": {
+	left: 0,
+	top: 0,
+	width: '30%',
+	height: Titanium.UI.SIZE
+}
+"#lblOption": {
+	left: 0,
+	top: 0,
+	width: Ti.UI.SIZE,
+	height: Titanium.UI.SIZE
+}
+"#tblRowOption": {}

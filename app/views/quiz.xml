@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="winQuiz" title="Quiz" onFocus = "playFirstSound">
+		<ScrollableView id="scbViewQuest" onScroll = "playEachSound" scrollingEnabled="false" showPagingControl="true"></ScrollableView>
+	</Window>
+</Alloy>

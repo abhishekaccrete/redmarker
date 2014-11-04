@@ -1,0 +1,16 @@
+<Alloy>
+	<View class="container">
+		<View id="view1">
+			<Label text="Quiz"></Label>
+		</View>
+		<View id="view2">
+			<Label text="Feature disabled"></Label>
+		</View>
+		<View id="view3">
+			<Label text="Feature disabled"></Label>
+		</View>
+		<View id="view4">
+			<Label text="Feature disabled"></Label>
+		</View>
+	</View>
+</Alloy>

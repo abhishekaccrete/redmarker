@@ -1,4 +1,5 @@
 <Alloy>
 	<Window id="winQuest" title="Quiz" backButtonTitle="Back">
+		<ScrollableView id="quizScroll"></ScrollableView>
 	</Window>
 </Alloy>

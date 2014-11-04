@@ -12,7 +12,8 @@
 var question_data = [{
 	"id" : 1,
 	"question" : "Important aspects of property management",
-	"sound" : "http:\/\/www.wavsource.com\/snds_2014-06-01_3524379041952374\/people\/politics\/clinton_200101_funny.wav",
+	"sound" : "http:\/\/www.wavsource.com\/snds_2014-11-02_5108491365167486\/people\/politics\/clinton_200101_funny.wav",
+	//"sound" : "http:\/\/www.wavsource.com\/snds_2014-06-01_3524379041952374\/people\/politics\/clinton_200101_funny.wav",
 	"options" : [{
 		"label" : "good tenants",
 		"image" : "http:\/\/www.drspropertyservices.ie\/attachments\/Image\/property-maintenance.jpg",
@@ -29,7 +30,8 @@ var question_data = [{
 }, {
 	"id" : 2,
 	"question" : "Most difficult part of property management",
-	"sound" : "http:\/\/www.wavsource.com\/snds_2014-06-01_3524379041952374\/people\/politics\/baker_arduous.wav",
+	//"sound" : "http:\/\/www.wavsource.com\/snds_2014-06-01_3524379041952374\/people\/politics\/baker_arduous.wav",
+	"sound": "http:\/\/www.wavsource.com\/snds_2014-11-02_5108491365167486\/people\/politics\/baker_arduous.wav",
 	"options" : [{
 		"label" : "dealing with tenants",
 		"image" : "http:\/\/www.nwfacilities.com\/wp-content\/uploads\/2009\/12\/Property-Maintenance-600.jpg",
@@ -45,6 +47,4 @@ var question_data = [{
 	}]
 }];
 
-var config = {
-	platform: Ti.Platform.osname
-};
+var mediaPlayer = Titanium.Media.createAudioPlayer();

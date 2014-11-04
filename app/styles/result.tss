@@ -1,0 +1,9 @@
+
+".container" : {
+	left: 0, top: 0, width: Titanium.UI.FILL, height: Titanium.UI.FILL, layout: 'vertical'
+}
+
+"Label": {
+	color: 'black',
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER
+}

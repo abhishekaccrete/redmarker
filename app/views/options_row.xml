@@ -1,0 +1,8 @@
+<Alloy>
+	<TableViewRow id="tblRowOption">
+		<View id="rowView">
+			<ImageView id="imgOption"></ImageView>
+			<Label id="lblOption"></Label>
+		</View>
+	</TableViewRow>
+</Alloy>

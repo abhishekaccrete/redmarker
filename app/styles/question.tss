@@ -1,0 +1,14 @@
+"#lblQuestion": {}
+"#viewQuestMain": {
+	left: 0,
+	top: 0,
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	layout: 'vertical'
+}
+
+"#viewQuest": {
+	left: 0, top: 0, width: Titanium.UI.FILL, height: Titanium.UI.SIZE
+}
+
+"#tblOptions": {}

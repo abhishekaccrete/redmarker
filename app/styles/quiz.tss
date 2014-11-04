@@ -1,0 +1,7 @@
+"#winQuiz": {
+	backgroundColor: 'white'
+}
+
+"#scbViewQuest": {
+	left: 0, top: 0, width: Ti.UI.FILL, height: Ti.UI.FILL
+}
